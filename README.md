@@ -1,4 +1,4 @@
-# Google Snake Mod Loader
+# Google Snake Mod Loader BUT BETTER
 
 New way to get snake mods since bookmarks broke.
 
@@ -7,6 +7,9 @@ Featured mods (may change):
 - Level Editor Mod
 - Mouse Mode
 - Pudding Mod
+
+Skellys EXTRA mods:
+ - None rn im still working lol
 
 # How to install
 
