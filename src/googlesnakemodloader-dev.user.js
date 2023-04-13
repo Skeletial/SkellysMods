@@ -447,7 +447,16 @@ let modsConfig = {
       authorUrl: 'https://twitch.tv/yarmiplay',
       description: 'Adds new apple count "Dice", which spawns between 1 and 6 apples when the last available apple is eaten. Has PuddingMod built in.'
     }
-  }
+  },
+  FodMod: {
+    displayName: 'Fod Mod',
+    hasUrl: true,
+    url: '',
+    modDescription: {
+      descriptionName: 'Fod Mod',
+      author: 'Skelly',
+      authorUrl: 'https://youtube.com/@Skeletial',
+      description: 'Test mod, adds more food counts and food'
 }
 
 if(IS_DEVELOPER_MODE) {
